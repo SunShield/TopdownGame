@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 484ed7d9930633e43ae020085bce617e, type: 3}
+  m_Name: ValueModifiers
+  m_EditorClassIdentifier: 
+  ValueModifiers:
+    m_keys:
+    - Slow
+    - Freeze
+    - MaxHealthIncreasement
+    m_values:
+    - Priority: 2
+      Type: 1
+      StackabilityType: 1
+      MaxStacksAmount: 0
+      HasMinValue: 1
+      MinStackedInnerValue: -0.75
+      HasMaxValue: 0
+      MaxStackedInnerValue: 0
+    - Priority: 3
+      Type: 1
+      StackabilityType: 1
+      MaxStacksAmount: 1
+      HasMinValue: 1
+      MinStackedInnerValue: -0.75
+      HasMaxValue: 0
+      MaxStackedInnerValue: 0
+    - Priority: 1
+      Type: 0
+      StackabilityType: 1
+      MaxStacksAmount: 0
+      HasMinValue: 0
+      MinStackedInnerValue: 0
+      HasMaxValue: 0
+      MaxStackedInnerValue: 0

@@ -1,0 +1,458 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7d2db98314fc904fa81236a0a67b3cf, type: 3}
+  m_Name: Room_1
+  m_EditorClassIdentifier: 
+  types:
+  - data: []
+  - data: []
+  - data: []
+  - data: []
+  - data: []
+  - data: []
+  - data:
+    - saverType: 6
+      id_in_external_heap: -37490828
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126866107403-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE0"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -751409455
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126675429997-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE1"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -1485797597
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127463213592-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE2"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -394565056
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127319661398-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE3"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 1541036282
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127890050033-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE4"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 1211900489
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126811340461-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE5"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 900633454
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127726244179-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE6"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 1862217379
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126936142922-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE7"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 2025405169
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127502140007-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE8"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 664140681
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126657779317-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE9"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -1212159549
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126505353124-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE10"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -555833408
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127607376133-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE11"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 524133072
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643125953958182-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE12"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -814796168
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127324005606-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE13"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -1890613327
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127717283621-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE14"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 1265494164
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126666216518-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE15"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -1783542020
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126971054180-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE16"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 682122288
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127557699803-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE17"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -774458023
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127648221868-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE18"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -1314726419
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127685721552-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE19"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 414632713
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127303855104-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE20"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -24029117
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126337697948-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE21"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -1985711396
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643127810733932-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE22"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -78276323
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126680036979-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE23"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 2099881283
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643125996675579-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE24"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -137271732
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1713643126612546014-418366621
+      namesPathBackup: "RoomMain\xBE[Field]\xBEEdgeWall"
+      siblingsPathBackup: "0\xBE2\xBE25"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 2100605550
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1019964817144534128-1568728555
+      namesPathBackup: Pursuer
+      siblingsPathBackup: 1
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -812908809
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-1019964817144534128-1663877700
+      namesPathBackup: Pursuer (1)
+      siblingsPathBackup: 1
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 1335892306
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-460448943115810779-1103554286
+      namesPathBackup: Shooter
+      siblingsPathBackup: 1
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot15_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: 2053928801
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-3803675775951501110-418366621
+      namesPathBackup: "RoomMain\xBE[FieldBounds]\xBETopLeft"
+      siblingsPathBackup: "0\xBE1\xBE0"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot1_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+    - saverType: 6
+      id_in_external_heap: -732068637
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-03f451e673603b54bb5978e8bd74f537-3803675777019613485-418366621
+      namesPathBackup: "RoomMain\xBE[FieldBounds]\xBEBottomRight"
+      siblingsPathBackup: "0\xBE1\xBE1"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot6_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color: {r: 0, g: 0, b: 0, a: 0}
+  BookMarks_InternalGlobal: []
+  HierExpands_InternalGlobal: []

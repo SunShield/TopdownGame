@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 13af34a77c188e24ab5aaaa3f353646a
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TestBattle.unity
+    guid: 3e5f8c0222fc3a14fb77aae7e744508f
+  - enabled: 1
+    path: Assets/Scenes/Rooms/StartingRoom.unity
+    guid: 0c4a2520f8eaeda4fb8904c51fa5fcd8
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room_1.unity
+    guid: 03f451e673603b54bb5978e8bd74f537
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room_2.unity
+    guid: 6bb19a951bb210a468d0d853037a51b6
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room_3.unity
+    guid: 52b9dccd706839b4ca19eeae57bf8528
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room_4.unity
+    guid: 8ed446b5847b6a041851dad5274e7502
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room_5.unity
+    guid: ea576f0c938bf8c4da360537c1ef8623
+  - enabled: 1
+    path: Assets/Scenes/Rooms/TreasureRoom_1.unity
+    guid: 418c343614c54ef49aa919354c7aa20a
+  m_configObjects: {}

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8537598952120769381
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 460448942110357284, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_Color.r
+      value: 0.4603686
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448942110357284, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448942110357284, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_Color.b
+      value: 0.1462264
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810777, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 460448943115810779, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: m_Name
+      value: PoisonousShooter
+      objectReference: {fileID: 0}
+    - target: {fileID: 5524291007682172788, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: _stats.MaxHealth._innerValue
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6056191684323389874, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
+      propertyPath: _bullet
+      value: 
+      objectReference: {fileID: 3816646653529517805, guid: 3dc90b5911b21b44785b5c726fc9953a, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e4428282eb3af394690737d6254d3d5e, type: 3}
